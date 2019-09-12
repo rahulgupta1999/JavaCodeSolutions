@@ -9,3 +9,6 @@
 |  3| if-else conditional statements to automate decision-making processes| [Third.java](https://github.com/rahulgupta1999/JavaCodeSolutions/blob/master/third.java) |
 |  4| Java Stdin and Stdout II| [Fourth.java](https://github.com/rahulgupta1999/JavaCodeSolutions/blob/master/fourth.java) |
 |  5| Java Output Formatting| [Fifth.java](https://github.com/rahulgupta1999/JavaCodeSolutions/blob/master/fifth.java) |
+|  6| Java Loop I| [Sixth.java](https://github.com/rahulgupta1999/JavaCodeSolutions/blob/master/sixth.java) |
+|  7| Java Loop II| [Seventh.java](https://github.com/rahulgupta1999/JavaCodeSolutions/blob/master/seventh.java) |
+|  8| Java Data Types| [Eight.java](https://github.com/rahulgupta1999/JavaCodeSolutions/blob/master/eight.java) |
