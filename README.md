@@ -1,6 +1,5 @@
 # JavaCodeSolutions
 Hacker Rank solutions
-| Problem No     | Problem           | Solution file  |
-| -------------  |:-------------:| -----:|
-|     |  | |
-|     |       |   |
+Problem no | Problem Statement | Solution
+--- | --- | ---
+1 | 2 | 3
