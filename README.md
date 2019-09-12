@@ -1,5 +1,5 @@
-# JavaCodeSolutions
-Hacker Rank Java solutions
+# Java Code Solutions
+Hacker Rank Java solutions 
 
 | Problem no        | Problem Statement          | Solution |
 | ------------- |:-------------:| -----:|
