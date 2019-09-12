@@ -3,6 +3,5 @@ Hacker Rank solutions
 
 | Problem no        | Problem Statement          | Solution |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| col 3 is      | Welcome to the world of Java! In this challenge, we practice printing to stdout | [first.java]: https://github.com/rahulgupta1999/JavaCodeSolutions/blob/master/first.java |
+
