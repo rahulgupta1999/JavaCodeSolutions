@@ -12,3 +12,7 @@
 |  6| Java Loop I| [Sixth.java](https://github.com/rahulgupta1999/JavaCodeSolutions/blob/master/sixth.java) |
 |  7| Java Loop II| [Seventh.java](https://github.com/rahulgupta1999/JavaCodeSolutions/blob/master/seventh.java) |
 |  8| Java Data Types| [Eight.java](https://github.com/rahulgupta1999/JavaCodeSolutions/blob/master/eight.java) |
+|  9| Java End of file| [Ninth.java](https://github.com/rahulgupta1999/JavaCodeSolutions/blob/master/ninth.java) |
+|  10| Java Static initializer block| [Tenth.java](https://github.com/rahulgupta1999/JavaCodeSolutions/blob/master/tenth.java) |
+|  11| Java Int to String| [Eleventh.java](https://github.com/rahulgupta1999/JavaCodeSolutions/blob/master/eleventh.java) |
+|  12| Java Date and Time| [Twelveth.java](https://github.com/rahulgupta1999/JavaCodeSolutions/blob/master/twelveth.java) |
