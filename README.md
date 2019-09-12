@@ -1,6 +1,6 @@
 # Java Code Solutions
-Hacker Rank Java solutions ...
-My Profile Link: [Click me](https://www.hackerrank.com/singlar414) ...
+## Hacker Rank Java solutions 
+### My Profile Link: [Click me](https://www.hackerrank.com/singlar414)
 
 | Problem no        | Problem Statement          | Solution |
 | ------------- |:-------------:| -----:|
