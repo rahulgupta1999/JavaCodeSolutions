@@ -17,3 +17,6 @@
 |  11| Java Int to String| [Eleventh.java](https://github.com/rahulgupta1999/JavaCodeSolutions/blob/master/eleventh.java) |
 |  12| Java Date and Time| [Twelveth.java](https://github.com/rahulgupta1999/JavaCodeSolutions/blob/master/twelveth.java) |
 |  13| Java Interface| [Thirteen.java](https://github.com/rahulgupta1999/JavaCodeSolutions/blob/master/thirteen.java) |
+|  14| Java Currency Formatter| [Fourteen.java](https://github.com/rahulgupta1999/JavaCodeSolutions/blob/master/fourteen.java) |
+|  15| Java String Introduction| [Fifteen.java](https://github.com/rahulgupta1999/JavaCodeSolutions/blob/master/fifteen.java) |
+|  16| Java Substring| [Sixteen.java](https://github.com/rahulgupta1999/JavaCodeSolutions/blob/master/sixteen.java) |
