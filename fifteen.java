@@ -1,32 +1,31 @@
 import java.io.*;
 import java.util.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
-import java.util.Scanner;
-import java.text.NumberFormat;
-import java.util.Locale;
+
 public class Solution {
-    
+
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        double payment = scanner.nextDouble();
-        scanner.close();
-           Locale indiaLocale = new Locale("en", "IN");
-
-        /* Create NumberFormats using Locales */
-        NumberFormat us     = NumberFormat.getCurrencyInstance(Locale.US);
-        NumberFormat india  = NumberFormat.getCurrencyInstance(indiaLocale);
-        NumberFormat china  = NumberFormat.getCurrencyInstance(Locale.CHINA);
-        NumberFormat france = NumberFormat.getCurrencyInstance(Locale.FRANCE);
-
-        /* Print output */        
-        System.out.println("US: "     + us.format(payment));
-        System.out.println("India: "  + india.format(payment));
-        System.out.println("China: "  + china.format(payment));
-        System.out.println("France: " + france.format(payment));
         
-
+        Scanner sc=new Scanner(System.in);
+        String A=sc.next();
+        String B=sc.next();
+        int i= A.length();
+        int j=B.length();
+        int c=i+j;
+        System.out.println(c);
+        int k= A.compareTo(B);
+        if(k>0)
+        {
+            System.out.println("Yes");
+        }
+         else
+        {
+            System.out.println("No");
+        }
+   System.out.println((A.toUpperCase()).charAt(0) + A.substring(1, A.length()) + " " + (B.toUpperCase()).charAt(0)+ B.substring(1, B.length()));
+        /* Enter your code here. Print output to STDOUT. */
+        
     }
 }
+
+
 
