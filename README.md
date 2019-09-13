@@ -16,3 +16,4 @@
 |  10| Java Static initializer block| [Tenth.java](https://github.com/rahulgupta1999/JavaCodeSolutions/blob/master/tenth.java) |
 |  11| Java Int to String| [Eleventh.java](https://github.com/rahulgupta1999/JavaCodeSolutions/blob/master/eleventh.java) |
 |  12| Java Date and Time| [Twelveth.java](https://github.com/rahulgupta1999/JavaCodeSolutions/blob/master/twelveth.java) |
+|  13| Java Interface| [Thirteen.java](https://github.com/rahulgupta1999/JavaCodeSolutions/blob/master/thirteen.java) |
