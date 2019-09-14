@@ -20,3 +20,5 @@
 |  14| Java Currency Formatter| [Fourteen.java](https://github.com/rahulgupta1999/JavaCodeSolutions/blob/master/fourteen.java) |
 |  15| Java String Introduction| [Fifteen.java](https://github.com/rahulgupta1999/JavaCodeSolutions/blob/master/fifteen.java) |
 |  16| Java Substring| [Sixteen.java](https://github.com/rahulgupta1999/JavaCodeSolutions/blob/master/sixteen.java) |
+|  17| Java Substring Comparisions| [Seventeen.java](https://github.com/rahulgupta1999/JavaCodeSolutions/blob/master/seventeen.java) |
+|  18| Java String reverse| [Eighteen.java](https://github.com/rahulgupta1999/JavaCodeSolutions/blob/master/eightteen.java) |
