@@ -23,3 +23,4 @@
 |  17| Java Substring Comparisions| [Seventeen.java](https://github.com/rahulgupta1999/JavaCodeSolutions/blob/master/seventeen.java) |
 |  18| Java String reverse| [Eighteen.java](https://github.com/rahulgupta1999/JavaCodeSolutions/blob/master/eighteen.java) |
 |  19| Java Anagrams| [Ninteen.java](https://github.com/rahulgupta1999/JavaCodeSolutions/blob/master/ninteen.java) |
+|  20| Java String Tokens| [Tweenty.java](https://github.com/rahulgupta1999/JavaCodeSolutions/blob/master/tweenty.java) |
