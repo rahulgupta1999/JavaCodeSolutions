@@ -25,3 +25,5 @@
 |  19| Java Anagrams| [Ninteen.java](https://github.com/rahulgupta1999/JavaCodeSolutions/blob/master/ninteen.java) |
 |  20| Java String Tokens| [Tweenty.java](https://github.com/rahulgupta1999/JavaCodeSolutions/blob/master/tweenty.java) |
 |  21| Pattern Syntax Checker| [PatternChecker.java](https://github.com/rahulgupta1999/JavaCodeSolutions/blob/master/tweentyone.java) |
+|  22| Java Regex| [JavaRegex.java](https://github.com/rahulgupta1999/JavaCodeSolutions/blob/master/tweentytwo.java) |
+|  23| Java BigDecimal| [JavaBigDecimal.java](https://github.com/rahulgupta1999/JavaCodeSolutions/blob/master/tweentythree.java) |
