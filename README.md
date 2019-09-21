@@ -27,3 +27,5 @@
 |  21| Pattern Syntax Checker| [PatternChecker.java](https://github.com/rahulgupta1999/JavaCodeSolutions/blob/master/tweentyone.java) |
 |  22| Java Regex| [JavaRegex.java](https://github.com/rahulgupta1999/JavaCodeSolutions/blob/master/tweentytwo.java) |
 |  23| Java BigDecimal| [JavaBigDecimal.java](https://github.com/rahulgupta1999/JavaCodeSolutions/blob/master/tweentythree.java) |
+|  24| Java Primality Test| [JavaPrimalityTest.java](https://github.com/rahulgupta1999/JavaCodeSolutions/blob/master/tweentyfour.java) |
+|  25| Java Big Integer | [JavaBigInteger.java](https://github.com/rahulgupta1999/JavaCodeSolutions/blob/master/tweentyfive.java) |
